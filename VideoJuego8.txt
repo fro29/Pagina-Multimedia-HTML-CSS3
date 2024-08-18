@@ -1,0 +1,126 @@
+<html>
+<head>
+<title>Angry Birds</title>
+<a name="arriba"></a>
+<style type="text/css">
+*{
+      margin:0px;
+      padding:0px;
+}
+#general{
+      margin:auto;
+      width:960px;
+      height:750px;
+      background-color:	 #de2046;
+      margin-top:10px;
+}
+#head{
+      width:960px;
+      height:220px;
+      background-image:url(imagenes/w97.png);
+      margin-top:0px;
+}
+#menu{
+      margin:auto:
+      width:960px;
+      height:30px;
+      background-color:#FFFFFF;
+      font-family:Verdana, Genova, sans-serif;
+}
+ul,ol{
+      list-style:none;
+}
+.nav li a{
+      background-color:	#FFFFFF;
+      color:#000000;
+      text-decoration:none;
+      padding:5.5px 60px;
+      display:block;
+}
+.nav li a:hover{
+      background-color:	#FFF0F5;
+      color:#000000;
+}
+.nav>li{
+      float:left;
+}
+.nav li ul{
+      display:none;
+      position:absolute;
+      min-width:140px;
+}
+.nav li:hover>ul{
+      display:block;
+}
+.nav li ul li{
+      position:relative;
+}
+.nav li ul li ul{
+      right:-130px,
+      top:0px;
+}
+</style>
+</head>
+<div id="general">
+      <div id="head">
+      </div>
+      <div id="menu">
+           <ul class="nav">
+                 <li><a href="inicio.html">Inicio</a>
+                         </ul>
+
+      </div>
+    <div id="cuerpo">
+      <div id="efecto">
+      </div>
+      <div id="public">
+      </div>
+      <div id="logo">
+      </div>
+</div>
+
+</head>
+
+<body bgcolor="#de2046">
+<br></br>
+<div align="right"> <font face="Copperplate Gothic Bold" color="white" size="5"><a href="#abajo">Ir a la parte de abajo</a></div>
+<br></br>
+<div align="center"><font face="Copperplate Gothic Bold" size="30" color="white">Descripción</font></div>
+
+<strong>Título: </strong>Angry Birds<br></br>
+<strong>Desarrollador: </strong>Rovio Entertainment<br></br>
+<strong>Fecha de lanzamiento: </strong>11 de diciembre de 2009<br></br>
+<strong>Género: </strong>Multiplataforma<br></br
+<strong>Plataformas: </strong> Xbox, Playstation, Nintendo Switch, iOS, Android y Windows 
+
+<div align="center"><img src="imagenes\w18.jpg" alt "paisaje 2" width="600" height="350"></td></div>
+
+<div align="center"><font face="System" color="white" size="7"><br>Reseña</br></font></div>
+<br></br>
+
+
+<br><font face="System" color="white" size="7">Una palabra que define muy bien a Angry Birds es simplicidad. En este juego unos cerdos de color verde han hurtado unos huevos de un nido y las aves están furiosas. En cada uno de los cientos (sí, cientos) de niveles, tendrás que ayudar a las aves a destruir a los cerdos que se encuentran detrás de endebles estructuras de diversos materiales; para lograrlo será necesario usar una resortera en determinando ángulo y con una fuerza particular para lanzar estos pájaros de manera adecuada.</br>
+
+</font>
+
+
+
+<br></br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u1ThF53rZn4?si=HHQCGazUlhoZSwfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<br></br>
+<div align="center"><table border="6">
+<tr>
+  <td><br><font face="Copperplate Gothic Bold" color="white" size="5"><a href="#arriba">Ir a la parte de arriba</a></font>
+<a name="abajo"></a></br></td><td><br><a href="inicio.html"><font face="Copperplate Gothic Bold" color="white" size="5">Regresar a pagina principal </font></a><br></td>
+</tr></div>
+
+<div align="center"><br><a href="https://www.facebook.com/angrybirdsfriends/?locale=es_LA"><img src="imagenes\facebook.png" alt "paisaje 2" width="100" height="100"></a></div></br>
+<div align="center"><br><a href="https://www.instagram.com/angrybirds/?hl=es"><img src="imagenes\instagram.png" alt "paisaje 2" width="100" height="100"></div></br>
+<div align="center"><br><a href="https://twitter.com/AngryBirds"><img src="imagenes\twitter.png" alt "paisaje 2" width="100" height="100"></div></br>
+
+</table>
+</body>
+</html>
